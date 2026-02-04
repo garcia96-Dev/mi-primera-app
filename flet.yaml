@@ -1,3 +1,6 @@
 main: main.py
-package_name: com.tuusuario.conversor
 product_name: Conversor Pro
+executable_name: conversor_garcia
+# Esta línea busca un icono en internet (puedes cambiar el nombre del icono)
+android:
+  icon: https://cdn-icons-png.flaticon.com/512/2533/2533562.png
