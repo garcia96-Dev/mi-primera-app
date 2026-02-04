@@ -1,0 +1,3 @@
+main: main.py
+package_name: com.tuusuario.conversor
+product_name: Conversor Pro
